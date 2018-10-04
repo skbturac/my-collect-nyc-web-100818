@@ -1,5 +1,5 @@
 def my_collect(array)
   new_collection = []
-  while i < 
+  while i < array.lenght
 end
 
